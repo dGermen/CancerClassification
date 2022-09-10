@@ -20,8 +20,12 @@ Take input for a new patient.
 
 Generate new data according to found statistical values.
 
-## Sample Outputs
+## Sample Outputs
 
-First run
+Starting the program
+
+![alt text](https://raw.githubusercontent.com/dGermen/CancerClassification/main/Screen%20Shot%202022-09-10%20at%2015.13.55.png)
 
 Results for patient id of 922840.
+
+![alt text](https://github.com/dGermen/CancerClassification/blob/main/Screen%20Shot%202022-09-10%20at%2015.15.06.png?raw=true)
