@@ -1,5 +1,5 @@
 # CancerClassification
-Classifies the tumor as malignant or benign.
+Classifies the tumor as malignant or benign. This project doesn't implement or use a new approach/method. It was the first bio related repo I worked on.
 
 2019 - July
 
